@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [SEO Textools](https://seo.textools.site) - Free SEO audit tool with 20+ checks including technical SEO, content analysis, mobile-friendliness, performance, security, and structured data validation — no sign-up required.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
